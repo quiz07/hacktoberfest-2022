@@ -27,7 +27,7 @@ Always contribue to a relevent foldar, means if you contribute a stack question 
 
 After compleating all these steps you can create PR, we will evaluate your PR after that we merge.
 
-# NOTES:
+# IMPORTANT NOTES:
 
 ## ONLY 2 VALID PR WILL BE ACCEPTED FOR EVERY CONTRIBUTORS.
 ## If you want to contribute other than a DSA SHEET question please make a issue before contribute.
